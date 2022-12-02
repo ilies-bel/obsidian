@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "a48ba71520c79c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0c9921de728933b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Technique/Backend/01.Java vanilla/00.Classes/0.Qu'est-ce qu'une classe ?.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c76b33771d0d8f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f5e46634f144d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "688eb0db2b853d63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "26bc010cde619b5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cac5551b6d063484",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0343926861a95e6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef4d441747dda86c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b372217025dfe18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Technique/Backend/01.Java vanilla/00.Classes/0.Qu'est-ce qu'une classe ?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7342ad595ae742bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Technique/Backend/01.Java vanilla/00.Classes/0.Qu'est-ce qu'une classe ?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be0fc0ca55b36561",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a46960d9a4999a8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Technique/Backend/01.Java vanilla/00.Classes/0.Qu'est-ce qu'une classe ?.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d0c9921de728933b",
+  "lastOpenFiles": [
+    "Technique/Backend/01.Java vanilla/Annotations.md",
+    "Technique/Backend/01.Java vanilla/00.Classes/0.Qu'est-ce qu'une classe ?.md",
+    "Technique/Backend/01.Java vanilla/API/Servlet.md",
+    "Technique/Backend/01.Java vanilla/Object type/Promitif vs ....md",
+    "Technique/Backend/Spring/Hibernate/Definition.md",
+    "Technique/Backend/Spring/Hibernate/cheatsheet.md",
+    "Technique/Conventions/Database.md",
+    "Technique/Backend/Spring/Modules/Spring web MVC.md",
+    "Technique/Backend/Spring/00.Definition.md",
+    "Technique/Backend/Spring/Servlet.md"
+  ]
+}

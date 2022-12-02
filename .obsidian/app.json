@@ -1,0 +1,10 @@
+{
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "fr",
+    "en-US"
+  ],
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "Technique"
+}

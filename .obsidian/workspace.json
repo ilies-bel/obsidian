@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "a48ba71520c79c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a6174ce9885e0fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de23a1854e53bc95",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8bbdbe23d14a123f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5c76b33771d0d8f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f5e46634f144d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "688eb0db2b853d63",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26bc010cde619b5e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "long",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cac5551b6d063484",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0343926861a95e6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef4d441747dda86c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b372217025dfe18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CR.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7342ad595ae742bb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CR.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be0fc0ca55b36561",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a46960d9a4999a8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CR.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8bbdbe23d14a123f",
+  "lastOpenFiles": [
+    "00.Back/01.Java/01.Basics/00.Classes/Java records.md",
+    "03.Front/tools.md",
+    "00.Back/Questions backend.md",
+    "Heritage.md",
+    "00.Back/01.Architectures.md",
+    "00.Back/02.Framework.md",
+    "00.Back/Conventions/Versionning.md",
+    "00.Back/Paradigms/Index.md",
+    "00.Back/01.Java/00.Chronologie.md",
+    "00.Back/01.Java/Spring/Servlet.md"
+  ]
+}
